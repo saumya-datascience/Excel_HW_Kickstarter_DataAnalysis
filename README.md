@@ -11,7 +11,7 @@ As part of Rutgers Data Analysis Bootcamp, students were asked to perform an ana
 * The Piv.Table was created to estimate how many projects were Success, Failed, Canceled or Live on the basis of categories. Country filter was added to find out how many projects were launched as well thier state in each country.
  !['Sub-category stats](Images_tables/Sub_Category_Stats.png)
  * Another Piv. table was created to analyse the 'state' in Sub Categories.'Country' and 'Parent Category' were used in filter.
- ![Outcomes based on Launch Data](link)
+ ![Outcomes based on Launch Data](Images_tables/launchdateoutcome.png)
 * Here a Piv.table and Line Graph was created to understand if there was any effect of the launch time on the Success rate of the Project.
 ## Bonus 1
 ![Analysis of Success rate over the Goal Size of the Project](link)
