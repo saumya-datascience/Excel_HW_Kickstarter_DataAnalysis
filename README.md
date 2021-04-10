@@ -14,7 +14,7 @@ As part of Rutgers Data Analysis Bootcamp, students were asked to perform an ana
  ![Outcomes based on Launch Data](Images_tables/launchdateoutcome.png)
 * Here a Piv.table and Line Graph was created to understand if there was any effect of the launch time on the Success rate of the Project.
 ## Bonus 1
-![Analysis of Success rate over the Goal Size of the Project](link)
+![Analysis of Success rate over the Goal Size of the Project](Images_tables/goal.png)
 * New Sheet and a line chart was created to understand the influence of the goals's amount on the Success, failure, or cancellation of the projects.
 ## 2
 ![Statistical Analyses ](link)
