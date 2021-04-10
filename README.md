@@ -22,9 +22,9 @@ As part of Rutgers Data Analysis Bootcamp, students were asked to perform an ana
 
 ## Results and Analysis
 * Results are stored in a Excel file.
-![Kickstarter Analysed Excel sheet](StarterBook.xlsx)
+[Kickstarter Analysed Excel sheet](StarterBook.xlsx)
 * A Word document comprising of Conclusions, Limitations and Additional Tables and Graphs is also made.  
-![Kickstarter Analyses word file](https://github.com/saumya-datascience/Excel_Kickstarter_Analysis/blob/9928a3882d01580a45141cefa5da8f6652bb32be/DataAnalysis_Kickstart_Project.docx)
+[Kickstarter Analyses word file](https://github.com/saumya-datascience/Excel_Kickstarter_Analysis/blob/9928a3882d01580a45141cefa5da8f6652bb32be/DataAnalysis_Kickstart_Project.docx)
 
 
 
