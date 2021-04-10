@@ -7,7 +7,7 @@ As part of Rutgers Data Analysis Bootcamp, students were asked to perform an ana
 ## Lets get Started
 * The starter file was first prepped up. Projects 'State'(Success, fail, Canceled and Live)  and 'Percent funded' were color coded using Conditional Formating. Colummns 'Category an Subcategory' was split for a better analysis.
 ## Pivot Tables and Graph plotted for Data Analysis
-!['Category Stats'](link) 
+!['Category Stats'](Images_tables/Category_Stats.png) 
 * The Piv.Table was created to estimate how many projects were Success, Failed, Canceled or Live on the basis of categories. Country filter was added to find out how many projects were launched as well thier state in each country.
  !['Sub-category stats](link)
  * Another Piv. table was created to analyse the 'state' in Sub Categories.'Country' and 'Parent Category' were used in filter.
