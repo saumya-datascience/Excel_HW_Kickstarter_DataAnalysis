@@ -17,7 +17,7 @@ As part of Rutgers Data Analysis Bootcamp, students were asked to perform an ana
 ![Analysis of Success rate over the Goal Size of the Project](Images_tables/goal.png)
 * New Sheet and a line chart was created to understand the influence of the goals's amount on the Success, failure, or cancellation of the projects.
 ## 2
-![Statistical Analyses ](link)
+![Statistical Analyses ](Images_tables/Statistics.png)
 * Mean, Median, Var and Standard Deviations were calculated on the backers count for Successful and Failed Campaigns.
 
 ## Results and Analysis
